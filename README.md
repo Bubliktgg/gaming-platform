@@ -14,7 +14,7 @@
 - Contact form
 
 ## 📁 Project structure
-┌── 📦 gaming-platform/
+📦 gaming-platform/
 - ├── 📄 README.md
 - ├── 🌐 index.html # Main page
 - ├── 📁 pages/
