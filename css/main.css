@@ -336,6 +336,7 @@ header nav ul li.button a {
     padding: 12px 24px;
     display: block;
     font-family: 'Rubik';
+    white-space: nowrap;
 }
 
 .projects_container .button2 {
