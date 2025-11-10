@@ -1,0 +1,31 @@
+<svg viewBox="0 0 62 62" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.000000" height="62.000000" fill="none" customFrame="#000000">
+	<defs>
+		<g id="pixso_custom_effect_3">
+			<effect x="0.000000" y="4.000000" visibility="visible" fill="rgb(0,0,0)" fill-opacity="0.150000006" effectType="dropShadow" showShadowBehind="1" stdDeviation="14" radius="0" />
+		</g>
+		<filter id="filter_3" width="62.000000" height="62.000000" x="0.000000" y="0.000000" filterUnits="userSpaceOnUse" customEffect="url(#pixso_custom_effect_3)" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix" />
+			<feOffset dx="0.000000" dy="4.000000" in="SourceAlpha" />
+			<feGaussianBlur stdDeviation="4.66666651" />
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0 " />
+			<feBlend result="effect_dropShadow_1" in2="BackgroundImageFix" mode="normal" />
+			<feBlend result="shape" in="SourceGraphic" in2="effect_dropShadow_1" mode="normal" />
+		</filter>
+		<clipPath id="clipPath_3">
+			<rect width="11.000000" height="11.000000" x="25.000000" y="21.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<g id="Group 9">
+		<g id="Group 8">
+			<g filter="url(#filter_3)">
+				<circle id="Ellipse 1" cx="31" cy="27" r="17" fill="rgb(255,255,255)" />
+			</g>
+		</g>
+		<g id="linkedin 1" clip-path="url(#clipPath_3)" customFrame="url(#clipPath_3)">
+			<rect id="linkedin 1" width="11.000000" height="11.000000" x="25.000000" y="21.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+			<path id="Vector" d="M35.9973 31.9998L35.9973 31.9993L36.0001 31.9993L36.0001 27.9651C36.0001 25.9915 35.5752 24.4712 33.268 24.4712C32.1588 24.4712 31.4145 25.0799 31.1106 25.6569L31.0785 25.6569L31.0785 24.6554L28.8909 24.6554L28.8909 31.9993L31.1688 31.9993L31.1688 28.3629C31.1688 27.4054 31.3503 26.4796 32.536 26.4796C33.7043 26.4796 33.7217 27.5723 33.7217 28.4243L33.7217 31.9998L35.9973 31.9998Z" fill="rgb(0,0,0)" fill-rule="nonzero" />
+			<path id="Vector" d="M25.1814 24.6562L27.4621 24.6562L27.4621 32.0001L25.1814 32.0001L25.1814 24.6562Z" fill="rgb(0,0,0)" fill-rule="nonzero" />
+			<path id="Vector" d="M26.3209 21C25.5917 21 25 21.5917 25 22.3209C25 23.0501 25.5917 23.6542 26.3209 23.6542C27.0501 23.6542 27.6418 23.0501 27.6418 22.3209C27.6414 21.5917 27.0497 21 26.3209 21L26.3209 21Z" fill="rgb(0,0,0)" fill-rule="nonzero" />
+		</g>
+	</g>
+</svg>
