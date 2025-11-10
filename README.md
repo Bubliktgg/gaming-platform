@@ -1,4 +1,4 @@
-# Modern gaming platform website.
+# Modern gaming platform website
 
 **Disclaimer:** This is my first practical programming project. Original design by Sanoj Dilshan from [Figma Community](https://www.figma.com/community/file/1058773912152023976/gaming-platform-web-design).
 
