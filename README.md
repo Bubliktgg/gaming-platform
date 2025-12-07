@@ -2,6 +2,8 @@
 
 **Disclaimer:** This is my first practical programming project. Original design by Sanoj Dilshan from [Figma Community](https://www.figma.com/community/file/1058773912152023976/gaming-platform-web-design).
 
+---
+
 ## 🚀 Technologies used
 - HTML5
 - CSS3
@@ -14,7 +16,7 @@
 - Contact form
 
 ## 📁 Project structure
-  📦 gaming-platform/
+- 📦 gaming-platform/
 - ├── 📄 README.md
 - ├── 🌐 index.html # Main page
 - ├── 📁 pages/
